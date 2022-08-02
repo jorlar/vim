@@ -1,4 +1,4 @@
-# Vim ⚡️
+# Vim
 Easy repo to start with vim
 i - insert mode
 esc - normal mode
@@ -7,7 +7,7 @@ Normal mode - normal mode for movement, yanking and pasting
 Visual mode - Visual to select block of text
 Insert mode - To type text
 
-### movement 🏃‍♂️
+### movement
 w - jump one word 
 b - go back one word
 I - Go to start of line and into insert mode
@@ -21,19 +21,19 @@ example
 5dd - deletes 5 lines into register
 shift g - moves you to the line you want
 
-### Copy/paste 🖇
+### Copy/paste
 yank(copy)
 dd -delete whole line
 yy - Copy whole line
 
-### Usefull Commands 🔥
+Commands
 dt{character} - delete til  
 df{character} - delete and replace character
 vt{character} - visual mode to place
 vf{character} - siual mode and replace character
 
 
-### Usefull Commands 🔥
+Commands 2
 cs{character} - change the sourrunding character
 ci{w} - change in word, replace word and start to type
 
@@ -46,7 +46,7 @@ Registers
 "a - a register 
 
 
-### Search  🔎
+### Search 
 / - to search occurences and go
 n - go to next occurence
 N - go back 
