@@ -37,11 +37,6 @@ vf{character} - siual mode and replace character
 cs{character} - change the sourrunding character
 ci{w} - change in word, replace word and start to type
 
-
-Commands 2
-cs{character} - change the sourrunding character
-ci{w} - change in word, replace word and start to type
-
 Registers 
 "a - a register 
 
